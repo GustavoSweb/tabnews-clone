@@ -23,7 +23,7 @@
 
 # debug
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log*  
 yarn-error.log*
 .pnpm-debug.log*
 
@@ -33,6 +33,7 @@ yarn-error.log*
 # vercel
 .vercel
 
+# clone tabnews
 # typescript
 *.tsbuildinfo
 next-env.d.ts
